@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operahor02horauoft_0201.png"; bbox 0 0 1820 3094; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 726 957 1153 1002">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 726 957 1153 1002">
+     <span class='ocr_line' id='line_1_1' title="bbox 726 957 1153 1002; baseline -0.007 0"><span class='ocrx_word' id='word_1_1' title='bbox 726 957 1082 1002; x_wconf 71' lang='lat' dir='ltr'>FASCICVLVS</span> <span class='ocrx_word' id='word_1_2' title='bbox 1113 958 1153 1000; x_wconf 91' lang='grc' dir='ltr'>Π</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 352 1101 1521 1251">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 352 1101 1521 1251">
+     <span class='ocr_line' id='line_1_2' title="bbox 352 1101 1521 1251; baseline -0.006 -38"><span class='ocrx_word' id='word_1_3' title='bbox 352 1136 437 1231; x_wconf 78' lang='lat' dir='ltr'><strong>Q.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 504 1130 986 1251; x_wconf 75' lang='lat' dir='ltr'><strong>HORATI</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1055 1101 1521 1208; x_wconf 76' lang='lat' dir='ltr'><strong>FLACCI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 517 1355 1372 1527">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 517 1355 1372 1527">
+     <span class='ocr_line' id='line_1_3' title="bbox 622 1355 1274 1411; baseline -0.009 0"><span class='ocrx_word' id='word_1_6' title='bbox 622 1356 1007 1411; x_wconf 85' lang='lat' dir='ltr'>EPISTVLARVM</span> <span class='ocrx_word' id='word_1_7' title='bbox 1049 1355 1196 1407; x_wconf 87' lang='lat' dir='ltr'>LIBRI</span> <span class='ocrx_word' id='word_1_8' title='bbox 1237 1356 1274 1406; x_wconf 93' lang='lat' dir='ltr'><strong>II</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 517 1479 1372 1527; baseline -0.007 0"><span class='ocrx_word' id='word_1_9' title='bbox 517 1484 715 1527; x_wconf 87' lang='lat' dir='ltr'>LIBER</span> <span class='ocrx_word' id='word_1_10' title='bbox 752 1483 838 1525; x_wconf 85' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 876 1481 1048 1524; x_wconf 82' lang='lat' dir='ltr'><strong>ARTE</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1085 1479 1372 1523; x_wconf 85' lang='lat' dir='ltr'><strong>POETICA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 850 1754 1043 1777">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 850 1754 1043 1777">
+     <span class='ocr_line' id='line_1_5' title="bbox 850 1754 1043 1777; baseline -0.005 -1"><span class='ocrx_word' id='word_1_13' title='bbox 850 1754 1043 1777; x_wconf 78' lang='lat' dir='ltr'>EEEEEEEEE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 664 1929 1236 1977">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 664 1929 1236 1977">
+     <span class='ocr_line' id='line_1_6' title="bbox 664 1929 1236 1977; baseline -0.009 0"><span class='ocrx_word' id='word_1_14' title='bbox 664 1933 884 1977; x_wconf 85' lang='grc' dir='ltr'><strong>ΟΤΤΟ</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 938 1929 1236 1974; x_wconf 71' lang='grc' dir='ltr'><strong>ΚΕιΙ-ΕΒ</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

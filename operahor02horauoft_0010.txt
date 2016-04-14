@@ -1,0 +1,23 @@
+r = codex Parisinus 9345 saeculi XI.
+v = codex Parisinus 8213 saeculi XIII.
+V = codex Blandinius qui dieitur uetustissimus.
+y = codicum aliorum atque ,Ω ς aut singuli aut nonnulli.
+ω = editionum ante Cruquium aut singulae aut nonnullae.
+Porph! = liber archetypus interpretationum Porph. et Porf.
+Porph. = interpretationes codicis Monacensis Lat. 181 saec.
+VIIII (—X9.
+Porf. = interpretationes codicis Wolfenbuttelani Gudiani
+Lat. 85 saeculi XIIII.
+Pph'. = lemmata Pph. et Pf. inter se congruentia.
+Pph.' et Pf. = interpretationum Porph, et Porf. lemmata.
+Aer. = interpretationes Pseudoaoronis.
+Ac. = lemmata Pseudoaoronis (cod. ν).
+schol. Γ -- ea scholia marginalia quae non ad Ac. Aer. pertinent,
+ueruntamen non solum in eod. y, sed in aliis quoque libris
+manu seriptis, ut in r Bamberq. Barcin. Francken, passim-
+que etiam in cod. ν reperitgitur.
+yloss. Γ = ea scholia interlinearia quae non tantum in cod. γ, sed
+etiam in aliis, ut in Ε α Bambery. Barcin. extant.
+tractat. Vindob. = tractatus vindobonensis de arte poetica nr. CXLV
+saeculi X.
+
